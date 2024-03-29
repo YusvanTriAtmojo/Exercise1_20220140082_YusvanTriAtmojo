@@ -13,10 +13,12 @@ body {
     width: 600px; 
     height: 600px;
     padding: 20px;
+    overflow: hidden;
 }
 
 .container2 {
     text-align: center;
+    overflow: hidden;
 }
 
 .section1 {
